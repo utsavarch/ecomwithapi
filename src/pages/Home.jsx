@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import useProducts from "../hooks/useproducts.js";
+import useProducts from "../hooks/useProducts.js";
 import Card from "../components/Card";
 import { FaSearch } from "react-icons/fa";
 
